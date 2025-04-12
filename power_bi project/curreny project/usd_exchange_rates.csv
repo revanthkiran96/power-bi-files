@@ -1,0 +1,266 @@
+Country,Currency Name,Currency Code,Exchange Rate (USD to Currency),Continent,Code
+Afghanistan,Afghan afghani,AFN,71.18,Asia,AF
+Albania,Albanian lek,ALL,91.77,Europe,AX
+Algeria,Algerian dinar,DZD,133.89,Africa,AL
+American Samoa,United States dollar,USD,1,Oceania,DZ
+Andorra,Euro,EUR,0.927,Europe,AS
+Angola,Angolan kwanza,AOA,919.86,Africa,AD
+Anguilla,Eastern Caribbean dollar,XCD,2.7,North America,AO
+Antigua and Barbuda,Eastern Caribbean dollar,XCD,2.7,North America,AI
+Argentina,Argentine peso,ARS,1072.29,South America,AQ
+Armenia,Armenian dram,AMD,391.81,Asia,AG
+Aruba,Aruban florin,AWG,1.79,North America,AR
+Australia,Australian dollar,AUD,1.59,Oceania,AM
+Austria,Euro,EUR,0.927,Europe,AW
+Azerbaijan,Azerbaijani manat,AZN,1.7,Europe,AU
+Bahamas,Bahamian dollar,BSD,1,North America,AT
+Bahamas,United States dollar,USD,1,North America,AZ
+Bahrain,Bahraini dinar,BHD,0.376,Asia,BS
+Bangladesh,Bangladeshi taka,BDT,121.52,Asia,BH
+Barbados,Barbadian dollar,BBD,2,North America,BD
+Belarus,Belarusian ruble,BYN,3.24,Europe,BB
+Belgium,Euro,EUR,0.927,Europe,BY
+Belize,Belize dollar,BZD,2,North America,BE
+Benin,West African CFA franc,XOF,607.79,Africa,BZ
+Bermuda,Bermudian dollar,BMD,1,North America,BJ
+Bhutan,Bhutanese ngultrum,BTN,85.76,Asia,BM
+Bhutan,Indian rupee,INR,85.76,Asia,BT
+Bolivia,Bolivian boliviano,BOB,6.93,South America,BO
+Bosnia and Herzegovina,Bosnia and Herzegovina convertible mark,BAM,1.81,Europe,BQ
+Botswana,Botswana pula,BWP,13.69,Africa,BA
+Brazil,Brazilian real,BRL,5.74,South America,BW
+British Indian Ocean Territory,United States dollar,USD,1,Asia,BV
+British Virgin Islands,United States dollar,USD,1,North America,BR
+Brunei,Brunei dollar,BND,1.34,Asia,IO
+Brunei,Singapore dollar,SGD,1.34,Asia,BN
+Bulgaria,Bulgarian lev,BGN,1.81,Europe,BG
+Burkina Faso,West African CFA franc,XOF,607.79,Africa,BF
+Burundi,Burundian franc,BIF,2965.76,Africa,BI
+Cambodia,United States dollar,USD,1,Asia,KH
+Cambodia,Cambodian riel,KHR,4005.67,Asia,CM
+Cameroon,Central African CFA franc,XAF,607.79,Africa,CA
+Canada,Canadian dollar,CAD,1.43,North America,CV
+Cape Verde,Cape Verdean escudo,CVE,102.17,Africa,KY
+Caribbean Netherlands,United States dollar,USD,1,North America,CF
+Cayman Islands,Cayman Islands dollar,KYD,0.833,North America,TD
+Central African Republic,Central African CFA franc,XAF,607.79,Africa,CL
+Chad,Central African CFA franc,XAF,607.79,Africa,CN
+Chile,Chilean peso,CLP,924.81,South America,CX
+China,Chinese yuan,CNY,7.27,Asia,CC
+Christmas Island,Australian dollar,AUD,1.59,Asia,CO
+Cocos (Keeling) Islands,Australian dollar,AUD,1.59,Asia,KM
+Colombia,Colombian peso,COP,4115.03,South America,CG
+Comoros,Comorian franc,KMF,455.84,Africa,CD
+Cook Islands,New Zealand dollar,NZD,1.74,Oceania,CK
+Costa Rica,Costa Rican colón,CRC,499.01,North America,CR
+Croatia,Euro,EUR,0.927,Europe,CI
+Cuba,Cuban peso,CUP,24,North America,HR
+Curaçao,Netherlands Antillean guilder,ANG,1.79,North America,CU
+Cyprus,Euro,EUR,0.927,Europe,CW
+Czechia,Czech koruna,CZK,23.12,Europe,CY
+DR Congo,Congolese franc,CDF,2859.51,Africa,CZ
+Denmark,Danish krone,DKK,6.91,Europe,DK
+Djibouti,Djiboutian franc,DJF,177.72,Africa,DJ
+Dominica,Eastern Caribbean dollar,XCD,2.7,North America,DM
+Dominican Republic,Dominican peso,DOP,63.21,North America,DO
+Ecuador,United States dollar,USD,1,South America,EC
+Egypt,Egyptian pound,EGP,50.57,Africa,EG
+El Salvador,United States dollar,USD,1,North America,SV
+Equatorial Guinea,Central African CFA franc,XAF,607.79,Africa,GQ
+Eritrea,Eritrean nakfa,ERN,15,Africa,ER
+Estonia,Euro,EUR,0.927,Europe,EE
+Eswatini,South African rand,ZAR,18.23,Africa,ET
+Eswatini,Swazi lilangeni,SZL,18.23,Africa,FK
+Ethiopia,Ethiopian birr,ETB,129.89,Africa,FO
+Falkland Islands,Falkland Islands pound,FKP,0.773,South America,FJ
+Faroe Islands,Faroese króna,FOK,6.91,Europe,FI
+Faroe Islands,Danish krone,DKK,6.91,Europe,FR
+Fiji,Fijian dollar,FJD,2.29,Oceania,GF
+Finland,Euro,EUR,0.927,Europe,PF
+France,Euro,EUR,0.927,Europe,TF
+French Guiana,Euro,EUR,0.927,South America,GA
+French Polynesia,CFP franc,XPF,110.57,Oceania,GM
+French Southern and Antarctic Lands,Euro,EUR,0.927,Antarctica,GE
+Gabon,Central African CFA franc,XAF,607.79,Africa,DE
+Gambia,dalasi,GMD,72.63,Africa,GH
+Georgia,lari,GEL,2.77,Asia,GI
+Germany,Euro,EUR,0.927,Europe,GR
+Ghana,Ghanaian cedi,GHS,15.53,Africa,GL
+Gibraltar,Gibraltar pound,GIP,0.773,Europe,GD
+Greece,Euro,EUR,0.927,Europe,GP
+Greenland,krone,DKK,6.91,North America,GU
+Grenada,Eastern Caribbean dollar,XCD,2.7,North America,GT
+Guadeloupe,Euro,EUR,0.927,North America,GG
+Guam,United States dollar,USD,1,Oceania,GN
+Guatemala,Guatemalan quetzal,GTQ,7.71,North America,GW
+Guernsey,Guernsey pound,GGP,0.773,Europe,GY
+Guernsey,British pound,GBP,0.773,Europe,HT
+Guinea,Guinean franc,GNF,8623.8,Africa,HM
+Guinea-Bissau,West African CFA franc,XOF,607.79,Africa,VA
+Guyana,Guyanese dollar,GYD,209.59,South America,HN
+Haiti,Haitian gourde,HTG,131.12,North America,HK
+Honduras,Honduran lempira,HNL,25.59,North America,HU
+Hong Kong,Hong Kong dollar,HKD,7.78,Asia,IS
+Hungary,Hungarian forint,HUF,371.76,Europe,IN
+Iceland,Icelandic króna,ISK,132.32,Europe,ID
+India,Indian rupee,INR,85.76,Asia,IR
+Indonesia,Indonesian rupiah,IDR,16598.01,Asia,IQ
+Iran,Iranian rial,IRR,41995.77,Asia,IE
+Iraq,Iraqi dinar,IQD,1311.58,Asia,IM
+Ireland,Euro,EUR,0.927,Europe,IL
+Isle of Man,Manx pound,IMP,0.773,Europe,IT
+Isle of Man,British pound,GBP,0.773,Europe,JM
+Israel,Israeli new shekel,ILS,3.67,Asia,JP
+Italy,Euro,EUR,0.927,Europe,JE
+Ivory Coast,West African CFA franc,XOF,607.79,Africa,JO
+Jamaica,Jamaican dollar,JMD,157.2,North America,KZ
+Japan,Japanese yen,JPY,150.86,Asia,KE
+Jersey,British pound,GBP,0.773,Europe,KI
+Jersey,Jersey pound,JEP,0.773,Europe,KP
+Jordan,Jordanian dinar,JOD,0.709,Asia,KR
+Kazakhstan,Kazakhstani tenge,KZT,500.32,Asia,KW
+Kenya,Kenyan shilling,KES,129.32,Africa,KG
+Kiribati,Kiribati dollar,KID,1.59,Oceania,LA
+Kiribati,Australian dollar,AUD,1.59,Oceania,LV
+Kosovo,Euro,EUR,0.927,Europe,LB
+Kuwait,Kuwaiti dinar,KWD,0.308,Asia,LS
+Kyrgyzstan,Kyrgyzstani som,KGS,87.11,Asia,LR
+Laos,Lao kip,LAK,21815.86,Asia,LY
+Latvia,Euro,EUR,0.927,Europe,LI
+Lebanon,Lebanese pound,LBP,89500,Asia,LT
+Lesotho,Lesotho loti,LSL,18.23,Africa,LU
+Lesotho,South African rand,ZAR,18.23,Africa,MO
+Liberia,Liberian dollar,LRD,199.92,Africa,MK
+Libya,Libyan dinar,LYD,4.84,Africa,MG
+Liechtenstein,Swiss franc,CHF,0.882,Europe,MW
+Lithuania,Euro,EUR,0.927,Europe,MY
+Luxembourg,Euro,EUR,0.927,Europe,MV
+Macau,Macanese pataca,MOP,8.01,Asia,ML
+Madagascar,Malagasy ariary,MGA,4671.67,Africa,MT
+Malawi,Malawian kwacha,MWK,1740.98,Africa,MH
+Malaysia,Malaysian ringgit,MYR,4.43,Asia,MQ
+Maldives,Maldivian rufiyaa,MVR,15.45,Asia,MR
+Mali,West African CFA franc,XOF,607.79,Africa,MU
+Malta,Euro,EUR,0.927,Europe,YT
+Marshall Islands,United States dollar,USD,1,Oceania,MX
+Martinique,Euro,EUR,0.927,North America,FM
+Mauritania,Mauritanian ouguiya,MRU,39.95,Africa,MD
+Mauritius,Mauritian rupee,MUR,45.7,Africa,MC
+Mayotte,Euro,EUR,0.927,Africa,MN
+Mexico,Mexican peso,MXN,20.3,North America,ME
+Micronesia,United States dollar,USD,1,Oceania,MS
+Moldova,Moldovan leu,MDL,18.06,Europe,MA
+Monaco,Euro,EUR,0.927,Europe,MZ
+Mongolia,Mongolian tögrög,MNT,3491.06,Asia,MM
+Montenegro,Euro,EUR,0.927,Europe,NA
+Montserrat,Eastern Caribbean dollar,XCD,2.7,North America,NR
+Morocco,Moroccan dirham,MAD,9.63,Africa,NP
+Mozambique,Mozambican metical,MZN,63.92,Africa,NL
+Myanmar,Burmese kyat,MMK,2098.35,Asia,NC
+Namibia,South African rand,ZAR,18.23,Africa,NZ
+Namibia,Namibian dollar,NAD,18.23,Africa,NI
+Nauru,Australian dollar,AUD,1.59,Oceania,NE
+Nepal,Nepalese rupee,NPR,137.21,Asia,NG
+Netherlands,Euro,EUR,0.927,Europe,NU
+New Caledonia,CFP franc,XPF,110.57,Oceania,NF
+New Zealand,New Zealand dollar,NZD,1.74,Oceania,MP
+Nicaragua,Nicaraguan córdoba,NIO,36.8,North America,NO
+Niger,West African CFA franc,XOF,607.79,Africa,OM
+Nigeria,Nigerian naira,NGN,1538.08,Africa,PK
+Niue,New Zealand dollar,NZD,1.74,Oceania,PW
+Norfolk Island,Australian dollar,AUD,1.59,Oceania,PS
+North Macedonia,denar,MKD,57.12,Europe,PA
+Northern Mariana Islands,United States dollar,USD,1,Oceania,PG
+Norway,Norwegian krone,NOK,10.5,Europe,PY
+Oman,Omani rial,OMR,0.384,Asia,PE
+Pakistan,Pakistani rupee,PKR,280.22,Asia,PH
+Palau,United States dollar,USD,1,Oceania,PN
+Palestine,Jordanian dinar,JOD,0.709,Asia,PL
+Palestine,Israeli new shekel,ILS,3.67,Asia,PT
+Palestine,Egyptian pound,EGP,50.57,Asia,PR
+Panama,United States dollar,USD,1,North America,QA
+Panama,Panamanian balboa,PAB,1,North America,RE
+Papua New Guinea,Papua New Guinean kina,PGK,4.1,Oceania,RO
+Paraguay,Paraguayan guaraní,PYG,8043.46,South America,RU
+Peru,Peruvian sol,PEN,3.64,South America,RW
+Philippines,Philippine peso,PHP,57.37,Asia,BL
+Pitcairn Islands,New Zealand dollar,NZD,1.74,Oceania,SH
+Poland,Polish złoty,PLN,3.88,Europe,KN
+Portugal,Euro,EUR,0.927,Europe,LC
+Puerto Rico,United States dollar,USD,1,North America,MF
+Qatar,Qatari riyal,QAR,3.64,Asia,PM
+Republic of the Congo,Central African CFA franc,XAF,607.79,Africa,VC
+Romania,Romanian leu,RON,4.61,Europe,WS
+Russia,Russian ruble,RUB,84.23,Europe,SM
+Rwanda,Rwandan franc,RWF,1415.39,Africa,ST
+Réunion,Euro,EUR,0.927,Africa,SA
+Saint Barthélemy,Euro,EUR,0.927,North America,SN
+"Saint Helena, Ascension and Tristan da Cunha",Pound sterling,GBP,0.773,Africa,RS
+"Saint Helena, Ascension and Tristan da Cunha",Saint Helena pound,SHP,0.773,Africa,SC
+Saint Kitts and Nevis,Eastern Caribbean dollar,XCD,2.7,North America,SL
+Saint Lucia,Eastern Caribbean dollar,XCD,2.7,North America,SG
+Saint Martin,Euro,EUR,0.927,North America,SX
+Saint Pierre and Miquelon,Euro,EUR,0.927,North America,SK
+Saint Vincent and the Grenadines,Eastern Caribbean dollar,XCD,2.7,North America,SI
+Samoa,Samoan tālā,WST,2.81,Oceania,SB
+San Marino,Euro,EUR,0.927,Europe,SO
+Saudi Arabia,Saudi riyal,SAR,3.75,Asia,ZA
+Senegal,West African CFA franc,XOF,607.79,Africa,GS
+Serbia,Serbian dinar,RSD,108.59,Europe,SS
+Seychelles,Seychellois rupee,SCR,14.36,Africa,ES
+Sierra Leone,Sierra Leonean leone,SLL,22798.78,Africa,LK
+Singapore,Singapore dollar,SGD,1.34,Asia,SD
+Sint Maarten,Netherlands Antillean guilder,ANG,1.79,North America,SR
+Slovakia,Euro,EUR,0.927,Europe,SJ
+Slovenia,Euro,EUR,0.927,Europe,SZ
+Solomon Islands,Solomon Islands dollar,SBD,8.17,Oceania,SE
+Somalia,Somali shilling,SOS,571.41,Africa,CH
+South Africa,South African rand,ZAR,18.23,Africa,SY
+South Georgia,Saint Helena pound,SHP,0.773,Antarctica,TW
+South Korea,South Korean won,KRW,1465.15,Asia,TJ
+South Sudan,South Sudanese pound,SSP,4517.03,Africa,TZ
+Spain,Euro,EUR,0.927,Europe,TH
+Sri Lanka,Sri Lankan rupee,LKR,296.11,Asia,TL
+Sudan,Sudanese pound,SDG,511.35,Africa,TG
+Suriname,Surinamese dollar,SRD,36.8,South America,TK
+Svalbard and Jan Mayen,krone,NOK,10.5,Europe,TO
+Sweden,Swedish krona,SEK,10,Europe,TT
+Switzerland,Swiss franc,CHF,0.882,Europe,TN
+Syria,Syrian pound,SYP,12938.6,Asia,TR
+São Tomé and Príncipe,São Tomé and Príncipe dobra,STN,22.7,Africa,TM
+Taiwan,New Taiwan dollar,TWD,33.07,Asia,TC
+Tajikistan,Tajikistani somoni,TJS,10.92,Asia,TV
+Tanzania,Tanzanian shilling,TZS,2631.83,Africa,UG
+Thailand,Thai baht,THB,33.86,Asia,UA
+Timor-Leste,United States dollar,USD,1,Oceania,AE
+Togo,West African CFA franc,XOF,607.79,Africa,GB
+Tokelau,New Zealand dollar,NZD,1.74,Oceania,US
+Tonga,Tongan paʻanga,TOP,2.39,Oceania,UM
+Trinidad and Tobago,Trinidad and Tobago dollar,TTD,6.77,North America,UY
+Tunisia,Tunisian dinar,TND,3.11,Africa,UZ
+Turkey,Turkish lira,TRY,38.02,Europe,VU
+Turkmenistan,Turkmenistan manat,TMT,3.5,Asia,VE
+Turks and Caicos Islands,United States dollar,USD,1,North America,VN
+Tuvalu,Australian dollar,AUD,1.59,Oceania,VG
+Tuvalu,Tuvaluan dollar,TVD,1.59,Oceania,VI
+Uganda,Ugandan shilling,UGX,3667.84,Africa,WF
+Ukraine,Ukrainian hryvnia,UAH,41.48,Europe,EH
+United Arab Emirates,United Arab Emirates dirham,AED,3.67,Asia,YE
+United Kingdom,British pound,GBP,0.773,Europe,ZM
+United States,United States dollar,USD,1,North America,ZW
+United States Minor Outlying Islands,United States dollar,USD,1,Oceania,
+United States Virgin Islands,United States dollar,USD,1,North America,
+Uruguay,Uruguayan peso,UYU,42.1,South America,
+Uzbekistan,Uzbekistani soʻm,UZS,12913.5,Asia,
+Vanuatu,Vanuatu vatu,VUV,122.23,Oceania,
+Vatican City,Euro,EUR,0.927,Europe,
+Venezuela,Venezuelan bolívar soberano,VES,69.44,South America,
+Vietnam,Vietnamese đồng,VND,25573.38,Asia,
+Wallis and Futuna,CFP franc,XPF,110.57,Oceania,
+Western Sahara,Algerian dinar,DZD,133.89,Africa,
+Western Sahara,Moroccan dirham,MAD,9.63,Africa,
+Western Sahara,Mauritanian ouguiya,MRU,39.95,Africa,
+Yemen,Yemeni rial,YER,246.02,Asia,
+Zambia,Zambian kwacha,ZMW,28.89,Africa,
+Zimbabwe,Zimbabwean dollar,ZWL,26.74,Africa,
+Åland Islands,Euro,EUR,0.927,Europe,
